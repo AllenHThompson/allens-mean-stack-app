@@ -1,0 +1,17 @@
+{
+  "name": "allens-mean-stack-app",
+  "version": "1.0.0",
+  "description": "Just a full-stack sandbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen H. Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2"
+  }
+}
